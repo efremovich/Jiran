@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name JiranSecondTry-rescue)(type Legacy)(uri ${KIPRJMOD}/JiranSecondTry-rescue.lib)(options "")(descr ""))
+)
